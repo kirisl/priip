@@ -1,0 +1,2 @@
+216.239.32.40 *.googleapis.com
+216.239.32.40 *.googleapis.cn
